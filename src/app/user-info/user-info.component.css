@@ -15,12 +15,15 @@
 input[type=text]:focus {
   width: 100%;
 } */
-.table{
- float: left;
- padding: 12px 8px 12px 20px;
 
+
+.table{
+  background-color: rgb(32, 224, 224);
+float: left;
+padding-left: 30px;
 }
-.form{
-  position: relative;
+.Image{
+  background-size: 12px;
+
 }
 
