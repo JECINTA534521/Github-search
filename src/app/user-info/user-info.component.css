@@ -1,29 +1,4 @@
-
-
-/* input[type=text] {
-  width: 130px;
-  border: 2px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-  background-color: white;
-  background-position: 10px 10px;
-  background-repeat: no-repeat;
-  padding: 12px 8px 12px 20px;
-
-}
-
-input[type=text]:focus {
-  width: 100%;
-} */
-
-
-.table{
-  background-color: rgb(32, 224, 224);
-float: left;
-padding-left: 30px;
-}
-.Image{
-  background-size: 12px;
-
+.container{
+  background-color: rgb(61, 228, 228);
 }
 
