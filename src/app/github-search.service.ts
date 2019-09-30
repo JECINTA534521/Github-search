@@ -72,7 +72,7 @@ export class GithubSearchService {
 
     interface ApiResponse {
 
-      name: string;
+     name: string;
       repo_url: string;
       description: string;
 
